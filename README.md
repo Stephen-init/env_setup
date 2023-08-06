@@ -13,7 +13,7 @@
 <a href="https://starship.rs/">
 <img
     alt="Starship"
-    src="https://raw.githubusercontent.com/starship/starship/master/media/logo.png">
+    src="https://img.shields.io/badge/starship-D231DD.svg?style=for-the-badge&logo=starship&logoColor=white">
 </a>
 </h1>
 
