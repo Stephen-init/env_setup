@@ -15,6 +15,11 @@
     alt="Starship"
     src="https://img.shields.io/badge/starship-D231DD.svg?style=for-the-badge&logo=starship&logoColor=white">
 </a>
+<a href="https://iterm2.com/">
+<img
+    alt="iterm2"
+    src="https://img.shields.io/badge/iterm2-2F9634.svg?style=for-the-badge&logo=iterm2&logoColor=white">
+</a>
 </h1>
 
 ## About
